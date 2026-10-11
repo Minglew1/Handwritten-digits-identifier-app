@@ -1,0 +1,13 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+
+# Saved model weights
+*.pth
+
+# Downloaded MNIST dataset
+data/
+
+# Virtual environments (if any)
+venv/
+.venv/
